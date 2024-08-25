@@ -1,0 +1,8 @@
+ * Features
+   - Homerow Modifiers with an "Extend"-like key
+   - ISRT Keyboard Layout
+   - Numpad Layer
+   - Media Layer
+   - Symbols Layer
+   - QWERTY Layer
+   - STENO Layer
